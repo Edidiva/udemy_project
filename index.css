@@ -154,6 +154,14 @@
     width: 242px;
 } */
 
+.section-2-text{
+    margin: 20px;
+}
+
+.section-2-text>h2{
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+}
 .carousel{
     display: flex;
 
@@ -194,7 +202,8 @@
 .section_2_heading{
 display: flex;
 margin: 20px;
-justify-content: space-between;
+justify-content: flex-start;
+gap:20px;
 
 }
 

@@ -106,10 +106,17 @@
     }
 
 
-    .button_flex button{
+    .sign-out-button{
 
         background: black;
         color: white;
+        padding: 5px;
+
+    }
+
+    .sign-in-button{
+        background-color: white;
+        color: black;
         padding: 5px;
     }
       /* section one style */
@@ -409,7 +416,7 @@ footer div p{
 
 }
 
-.english{
+#english{
     border:  1px solid black;
     
 }
